@@ -13,5 +13,5 @@ variable "container_name" {
 variable "external_port" {
   description = "Puerto externo del servidor"
   type        = number
-  default     = 8082
+  default     = 8083
 }
